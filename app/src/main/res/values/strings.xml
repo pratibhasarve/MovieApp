@@ -1,0 +1,7 @@
+<resources>
+    <string name="search_for_fav_movie">Search for your favorite movie...</string>
+    <string name="app_name">MovieSearchApp</string>
+    <string name="provide_movie_title">Provide movie title to search</string>
+    <string name="release_year">"Relase Year : "</string>
+    <string name="search_result">Search Results</string>
+</resources>
