@@ -5,9 +5,13 @@
 Language used - Kotlin                                                                                                                      Used Free Web- servcice available on internet																							
 
 This project inclueds			
-RecyclerView - with ajustabe size grids				
+
+RecyclerView - with ajustabe size grids	
+
 Cardview
+
 MVVP patterns 	
+
 Retrofit Library for Rest api.
 
 
