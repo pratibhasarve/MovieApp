@@ -4,7 +4,7 @@
 
 Language used - Kotlin                                                                                                                      Used Free Web- servcice available on internet																							
 
-**This project inclueds		**	
+**This project inclueds**	
 
 RecyclerView - with ajustabe size grids	
 
